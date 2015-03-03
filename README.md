@@ -10,4 +10,4 @@ The Free Art License was the first license deemed compatible, and the GPLv3 is t
 | Driver  | [Sarah Pearson](https://github.com/sarahpearson)  |
 | Approvers  | [Diane Peters](https://github.com/peterspdx)  |
 | Contributors | [Diane Peters](https://github.com/peterspdx) |
-| Informed | [Ryan Merkley](https://github.com/ryanmerkley) |
+| Informed | [Ryan Merkley](https://github.com/ryanmerkley), @mattl |
